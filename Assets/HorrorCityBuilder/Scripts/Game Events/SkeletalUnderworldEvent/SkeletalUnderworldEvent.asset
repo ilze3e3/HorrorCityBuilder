@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7af81d433ed7a48ba1778b43fc3163, type: 3}
+  m_Name: SkeletalUnderworldEvent
+  m_EditorClassIdentifier: 
+  title: The Underworld is Coming!!
+  narrative: The ground begins to tremble and suddenly skeletal arms begin to pop
+    out of the ground and slowly drag villagers to the depths of the underworld.
+  decisions:
+  - {fileID: 11400000, guid: 54e5c08317dd9824e9ec99a5786951a0, type: 2}
+  - {fileID: 11400000, guid: f12f6a2e3197fa849bd24d9d8fb273b4, type: 2}
+  eventRequirements:
+  - {fileID: 11400000, guid: eea51674002ebaf4d84ad6aba3d71c31, type: 2}
+  - {fileID: 11400000, guid: 2df01ee54259b1d4db75fd81191847b2, type: 2}

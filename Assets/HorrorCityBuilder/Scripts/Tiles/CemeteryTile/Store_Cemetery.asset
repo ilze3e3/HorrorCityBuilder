@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad383c4385541024dbb5e23835abc9ef, type: 3}
+  m_Name: Store_Cemetery
+  m_EditorClassIdentifier: 
+  model: {fileID: 8250080397872707216, guid: e03df06d95b20d34a8fb2908f90254f3, type: 3}
+  tile: {fileID: 11400000, guid: efdb695c175dc78458b5be2b7476cd0a, type: 2}
+  price: 1000
+  buildingImage: {fileID: 0}

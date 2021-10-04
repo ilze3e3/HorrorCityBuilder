@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7af81d433ed7a48ba1778b43fc3163, type: 3}
+  m_Name: FrankensteinEvent
+  m_EditorClassIdentifier: 
+  title: Frankenstein On The Loose!!
+  narrative: "A crazy mad scientist has settled in our town. Talks going around town
+    has hinted to them being on the verge of constructing Frankenstein within the
+    town. \nThe townsfolk have been asking for your decision. "
+  decisions:
+  - {fileID: 11400000, guid: 4d94df0489576b14c821699efd2844e2, type: 2}
+  - {fileID: 11400000, guid: 441be4c449bd47540956aeaef522218c, type: 2}
+  eventRequirements:
+  - {fileID: 11400000, guid: 3705e37ab4e5ab6429cfe9d5fde80cba, type: 2}

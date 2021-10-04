@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad383c4385541024dbb5e23835abc9ef, type: 3}
+  m_Name: Store_Hospital
+  m_EditorClassIdentifier: 
+  model: {fileID: 8250080397872707216, guid: 0a20b80224df04740bedbaf7f6b7ad1f, type: 3}
+  tile: {fileID: 11400000, guid: 9e991dbd7f7372a4693a6fd0d765d0ba, type: 2}
+  price: 750
+  buildingImage: {fileID: 0}

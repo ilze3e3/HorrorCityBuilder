@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d7af81d433ed7a48ba1778b43fc3163, type: 3}
+  m_Name: GhostSightingEvent
+  m_EditorClassIdentifier: 
+  title: Ghost are sighted
+  narrative: 'Reports from the locals claims that they have spotted sightings of
+    a horde of ghosts slowly approaching the outskirts of town. '
+  decisions:
+  - {fileID: 11400000, guid: e186166f4542d224db0c2d944d7878f9, type: 2}
+  - {fileID: 11400000, guid: 07c2afee0c6f0b1499d7ae248626b89b, type: 2}
+  eventRequirements:
+  - {fileID: 11400000, guid: 11b6685163e29e143aadf6a8d9247637, type: 2}
+  - {fileID: 11400000, guid: e92c56b60b202c8428b0ff0e1e6b312f, type: 2}
